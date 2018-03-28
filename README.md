@@ -1,4 +1,4 @@
-﻿# Jugg
+﻿# Jugg   模拟Picasso图片加载框架
 
 a
 
